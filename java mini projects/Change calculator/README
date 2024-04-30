@@ -1,0 +1,2 @@
+This program takes as input the monetary amount charged and the monetary amount given and calculates the change which is the difference between the amount given and the amount charged. It then calculates the smallest number of bills and/or coins required to make up the change. Note that this program uses the FCFA of west African states and it assumes that all values are realistic. 
+For example the maximum amount given for an amount charged of 25k is 30k and so on.

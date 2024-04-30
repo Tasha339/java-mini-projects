@@ -1,0 +1,3 @@
+The birthday paradox says that the probability that two people in a room will
+have the same birthday is more than half, provided n, the number of people in the
+room, is more than 23. This program tests this paradox, giving users the privilege of choosing the number of people being considered each time it is run.
